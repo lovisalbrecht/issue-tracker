@@ -2,7 +2,7 @@
 
 Hier entsteht eine Issue Tracker App zum Verwalten von Aufgaben
 
-´´´mermaid
+```mermaid
 
 erDiagram
 
@@ -13,6 +13,4 @@ issue {
   BOOL is_done
   TEXT description
 }
-
-
-´´´
+```
